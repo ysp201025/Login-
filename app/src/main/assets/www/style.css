@@ -1,0 +1,4 @@
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#efeafc;font-family:Inter,sans-serif;}
+.authbox{background:#fff;padding:34px;border-radius:16px;width:280px;box-shadow:0 12px 30px rgba(90,60,160,.15);}
+.authbox input{width:100%;padding:10px 12px;margin-bottom:12px;border-radius:8px;border:1px solid #ddd;box-sizing:border-box;}
+.authbox .btn{display:block;text-align:center;background:#7c3aed;color:#fff;padding:11px;border-radius:9px;text-decoration:none;font-weight:700;}
